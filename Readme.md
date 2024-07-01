@@ -45,5 +45,5 @@ The final output aims to provide an easily accessible analysis of Airbnb data fo
 - Pandas
 - Plotly
 
-#Conclusion
+## Conclusion
 This project provides a comprehensive analysis of Airbnb data, offering valuable insights into various aspects of the dataset. The visualizations and interactive dashboard created in Power BI facilitate a deeper understanding of pricing, availability, and location-based trends, aiding informed decision-making for clients and users interested in the tourism and hospitality industry.
